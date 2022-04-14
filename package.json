@@ -15,7 +15,7 @@
   "author": "Joel Sequeira <joelseq96@gmail.com>, Vincent Liaw <vincentcliaw@gmail.com>, Zifeng Chris Xie <zephre0101@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "async": "^2.1.5",
+    "async": "^3.2.2",
     "async-es": "^2.1.5",
     "axios": "^0.15.3",
     "babel-core": "^6.24.1",
