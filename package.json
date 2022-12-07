@@ -30,7 +30,7 @@
     "d3-time-format": "^2.0.3",
     "d3-tip": "^0.7.1",
     "dragselect": "^1.7.21",
-    "express": "^4.14.0",
+    "express": "^4.17.3",
     "helmet": "^3.4.0",
     "leaflet": "1.0.0-rc.2",
     "lodash": "^4.17.4",
